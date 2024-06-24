@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "751099867980",
+    "project_id": "polling-ad547",
+    "storage_bucket": "polling-ad547.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751099867980:android:d45c88846744a94c4415e9",
+        "android_client_info": {
+          "package_name": "com.gtproject.newpoll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751099867980-158b30m4qpelaih84g9fba3gpqll8bs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjwj6wkqvoBaMrR_r3lMpYJ33g47lklSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751099867980-158b30m4qpelaih84g9fba3gpqll8bs8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
